@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HaritTask5</string>
+    <string name="enter_product_detail">Enter Product Detail</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_code">Product Code</string>
+    <string name="product_price">Product Price</string>
+    <string name="submit">Submit</string>
+    <string name="product_details">Product Details</string>
 </resources>
